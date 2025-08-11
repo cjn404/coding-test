@@ -30,7 +30,7 @@ public class No35 {
         // 2. 등차수열 합 공식 X, for 문으로
         long totalCost = 0;
 
-        for (int i = 1; i < count; i++) {
+        for (int i = 1; i <= count; i++) {
             totalCost += (long) price * i;
         }
 

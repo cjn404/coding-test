@@ -1,12 +1,8 @@
 package programmers.java.lv0.no120802;
 
 public class No120802 {
-    public int solution1(int num1, int num2) {
-        return method1(num1, num2);
-    }
-
     // 방법 1
-    private int method1(int num1, int num2) {
+    public int solution1(int num1, int num2) {
         int sum;
         sum = num1 + num2;
         return sum;

@@ -1,4 +1,4 @@
-# Lv. 두 수의 곱 구하기(No. 120804)
+# Lv. 0 두 수의 곱 구하기(No. 120804)
 
 [🔗 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/120804)
 

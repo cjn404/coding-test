@@ -53,7 +53,7 @@
   NOT LIKE 'A%'   -- A로 시작하지 않음
   NOT LIKE '%A'   -- A로 끝나지 않음
   NOT LIKE '%A%'  -- A가 포함되지 않음
-  NOT LIKE 'A' -- A와 불일치
+  NOT LIKE 'A'    -- A와 불일치
   ```
 
 ## 다른 풀이

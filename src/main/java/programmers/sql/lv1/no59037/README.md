@@ -36,7 +36,8 @@
 | A367012 | Miller |
 | A381217 | Cherokee |
 
-1. `INTAKE_CONDITION`이 Aged가 아닌 경우를 뜻함
+---
+¹ `INTAKE_CONDITION`이 Aged가 아닌 경우를 뜻함
 
 ## 풀이
 - 값 비교

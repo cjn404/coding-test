@@ -39,8 +39,11 @@
 
 ¹ `INTAKE_CONDITION`이 `Sick`인 경우를 뜻함
 
+## 풀이
+[🔗 참고](https://github.com/cjn404/coding-test/tree/main/src/main/java/programmers/sql/lv1/no59037)
+
 ## 다른 풀이
-- 문자열 패턴 비교 [🔗 참고](https://github.com/cjn404/coding-test/tree/main/src/main/java/programmers/sql/lv1/no59037)
+- 문자열 패턴 비교 
 ```sql
 SELECT ANIMAL_ID, 
        NAME

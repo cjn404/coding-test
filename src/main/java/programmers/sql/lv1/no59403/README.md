@@ -1,4 +1,4 @@
-# 동물의 아이디와 이름 (No. 59403)
+# Lv. 1 동물의 아이디와 이름 (No. 59403)
 
 [🔗 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/59403)
 

@@ -89,7 +89,6 @@ ORDER BY HISTORY_ID DESC;
 
 - `DATETIME` 고려가 필요한 경우, `>= 시작일 AND < 다음 기간 시작일` 방식이 더 안전함. 위 문제에서는 `START_DATE`과 `END_DATE` 모두 `DATE` 컬럼으므로 무방함
 
-
 ## 다른 풀이
 
 ```sql

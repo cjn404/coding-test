@@ -1,4 +1,4 @@
-# 특정 옵션이 포함된 자동차 리스트 구하기 (No. 157343)
+# Lv 1. 특정 옵션이 포함된 자동차 리스트 구하기 (No. 157343)
 
 [🔗 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/157343)
 
